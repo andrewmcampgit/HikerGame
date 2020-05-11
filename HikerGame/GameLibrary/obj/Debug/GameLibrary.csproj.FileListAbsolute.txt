@@ -1,0 +1,6 @@
+C:\Users\andrew.camp\Documents\Visual Studio 2017\Projects\02_CSF2\HikerGame\GameLibrary\bin\Debug\GameLibrary.dll
+C:\Users\andrew.camp\Documents\Visual Studio 2017\Projects\02_CSF2\HikerGame\GameLibrary\bin\Debug\GameLibrary.pdb
+C:\Users\andrew.camp\Documents\Visual Studio 2017\Projects\02_CSF2\HikerGame\GameLibrary\obj\Debug\GameLibrary.csprojAssemblyReference.cache
+C:\Users\andrew.camp\Documents\Visual Studio 2017\Projects\02_CSF2\HikerGame\GameLibrary\obj\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\andrew.camp\Documents\Visual Studio 2017\Projects\02_CSF2\HikerGame\GameLibrary\obj\Debug\GameLibrary.dll
+C:\Users\andrew.camp\Documents\Visual Studio 2017\Projects\02_CSF2\HikerGame\GameLibrary\obj\Debug\GameLibrary.pdb
